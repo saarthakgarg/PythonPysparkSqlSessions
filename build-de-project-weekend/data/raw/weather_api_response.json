@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "source": "WeatherAPI-Mock",
+  "fetched_at": "2024-10-21T08:00:00Z",
+  "data": [
+    {"city": "New York",      "state": "NY", "date": "2024-10-21", "temp_c": 14.5, "humidity_pct": 72, "condition": "Cloudy"},
+    {"city": "Los Angeles",   "state": "CA", "date": "2024-10-21", "temp_c": 24.1, "humidity_pct": 45, "condition": "Sunny"},
+    {"city": "Chicago",       "state": "IL", "date": "2024-10-21", "temp_c": 9.8,  "humidity_pct": 80, "condition": "Rainy"},
+    {"city": "Houston",       "state": "TX", "date": "2024-10-21", "temp_c": 28.3, "humidity_pct": 65, "condition": "Sunny"},
+    {"city": "San Francisco", "state": "CA", "date": "2024-10-21", "temp_c": 18.0, "humidity_pct": 70, "condition": "Foggy"}
+  ]
+}

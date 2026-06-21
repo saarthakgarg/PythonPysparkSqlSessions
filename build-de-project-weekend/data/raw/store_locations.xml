@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores>
+  <store>
+    <store_id>S001</store_id>
+    <store_name>NY Flagship</store_name>
+    <city>New York</city>
+    <state>NY</state>
+    <lat>40.7128</lat>
+    <lon>-74.0060</lon>
+    <opened_date>2020-03-15</opened_date>
+  </store>
+  <store>
+    <store_id>S002</store_id>
+    <store_name>LA Central</store_name>
+    <city>Los Angeles</city>
+    <state>CA</state>
+    <lat>34.0522</lat>
+    <lon>-118.2437</lon>
+    <opened_date>2020-07-01</opened_date>
+  </store>
+  <store>
+    <store_id>S003</store_id>
+    <store_name>Chicago Midtown</store_name>
+    <city>Chicago</city>
+    <state>IL</state>
+    <lat>41.8781</lat>
+    <lon>-87.6298</lon>
+    <opened_date>2021-01-10</opened_date>
+  </store>
+  <store>
+    <store_id>S004</store_id>
+    <store_name>Houston South</store_name>
+    <city>Houston</city>
+    <state>TX</state>
+    <lat>29.7604</lat>
+    <lon>-95.3698</lon>
+    <opened_date>2021-06-20</opened_date>
+  </store>
+  <store>
+    <store_id>S005</store_id>
+    <store_name>SF Bay</store_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <lat>37.7749</lat>
+    <lon>-122.4194</lon>
+    <opened_date>2022-02-14</opened_date>
+  </store>
+</stores>

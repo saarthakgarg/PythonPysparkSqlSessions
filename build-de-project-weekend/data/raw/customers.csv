@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date,is_active
+C001,Alice,Johnson,alice.johnson@email.com,+1-555-0101,New York,NY,USA,2023-01-15,true
+C002,Bob,Smith,bob.smith@email.com,+1-555-0102,Los Angeles,CA,USA,2023-02-20,true
+C003,Carol,Williams,carol.w@email.com,+1-555-0103,Chicago,IL,USA,2023-01-30,true
+C004,David,Brown,david.brown@email.com,+1-555-0104,Houston,TX,USA,2023-03-10,false
+C005,Eva,Jones,eva.jones@email.com,+1-555-0105,Phoenix,AZ,USA,2023-04-05,true
+C006,Frank,Davis,frank.davis@email.com,+1-555-0106,Philadelphia,PA,USA,2023-02-14,true
+C007,Grace,Miller,grace.miller@email.com,+1-555-0107,San Antonio,TX,USA,2023-05-22,true
+C008,Henry,Wilson,henry.w@email.com,+1-555-0108,San Diego,CA,USA,2023-06-01,false
+C009,Irene,Moore,irene.moore@email.com,+1-555-0109,Dallas,TX,USA,2023-03-18,true
+C010,Jack,Taylor,jack.taylor@email.com,+1-555-0110,San Jose,CA,USA,2023-07-11,true
+C011,Karen,Anderson,karen.a@email.com,+1-555-0111,Austin,TX,USA,2023-08-05,true
+C012,Leo,Thomas,leo.thomas@email.com,+1-555-0112,Jacksonville,FL,USA,2023-01-25,true
+C013,Mona,Jackson,mona.j@email.com,+1-555-0113,Columbus,OH,USA,2023-09-14,false
+C014,Nate,White,nate.white@email.com,+1-555-0114,Charlotte,NC,USA,2023-10-02,true
+C015,Olivia,Harris,olivia.h@email.com,+1-555-0115,Indianapolis,IN,USA,2023-11-19,true
+C016,Paul,Martin,paul.martin@email.com,+1-555-0116,San Francisco,CA,USA,2023-12-01,true
+C017,Quinn,Garcia,quinn.g@email.com,+1-555-0117,Seattle,WA,USA,2024-01-08,true
+C018,Rosa,Martinez,rosa.m@email.com,+1-555-0118,Denver,CO,USA,2024-02-14,true
+C019,Sam,Robinson,sam.r@email.com,+1-555-0119,Boston,MA,USA,2024-03-20,true
+C020,Tina,Clark,tina.clark@email.com,+1-555-0120,Nashville,TN,USA,2024-04-10,false

@@ -1,0 +1,51 @@
+order_id,customer_id,order_date,status,payment_method,total_amount,shipping_city
+O001,C001,2024-01-05,delivered,credit_card,159.98,New York
+O002,C002,2024-01-08,delivered,paypal,120.00,Los Angeles
+O003,C003,2024-01-12,shipped,credit_card,55.50,Chicago
+O004,C004,2024-01-15,cancelled,debit_card,35.00,Houston
+O005,C005,2024-01-20,delivered,credit_card,204.99,Phoenix
+O006,C006,2024-02-01,delivered,paypal,79.99,Philadelphia
+O007,C007,2024-02-05,delivered,credit_card,240.00,San Antonio
+O008,C008,2024-02-10,cancelled,credit_card,89.00,San Diego
+O009,C009,2024-02-14,delivered,paypal,57.99,Dallas
+O010,C010,2024-02-18,shipped,credit_card,199.99,San Jose
+O011,C011,2024-03-01,delivered,debit_card,138.99,Austin
+O012,C012,2024-03-05,delivered,credit_card,55.50,Jacksonville
+O013,C013,2024-03-10,cancelled,paypal,120.00,Columbus
+O014,C014,2024-03-15,delivered,credit_card,93.99,Charlotte
+O015,C015,2024-03-20,shipped,credit_card,199.99,Indianapolis
+O016,C016,2024-04-01,delivered,paypal,189.98,San Francisco
+O017,C017,2024-04-05,delivered,credit_card,95.00,Seattle
+O018,C018,2024-04-10,delivered,debit_card,72.99,Denver
+O019,C019,2024-04-15,delivered,credit_card,159.99,Boston
+O020,C020,2024-04-20,cancelled,paypal,49.99,Nashville
+O021,C001,2024-05-01,delivered,credit_card,299.99,New York
+O022,C002,2024-05-05,shipped,paypal,79.99,Los Angeles
+O023,C003,2024-05-08,delivered,credit_card,110.00,Chicago
+O024,C005,2024-05-12,delivered,credit_card,199.99,Phoenix
+O025,C006,2024-05-18,delivered,debit_card,63.00,Philadelphia
+O026,C007,2024-05-22,delivered,paypal,35.00,San Antonio
+O027,C009,2024-06-01,shipped,credit_card,120.00,Dallas
+O028,C010,2024-06-05,delivered,paypal,55.50,San Jose
+O029,C011,2024-06-10,delivered,credit_card,89.99,Austin
+O030,C014,2024-06-15,delivered,debit_card,199.99,Charlotte
+O031,C015,2024-06-20,shipped,credit_card,45.00,Indianapolis
+O032,C016,2024-06-25,delivered,paypal,249.98,San Francisco
+O033,C017,2024-07-01,delivered,credit_card,59.99,Seattle
+O034,C018,2024-07-05,cancelled,credit_card,110.00,Denver
+O035,C019,2024-07-10,delivered,paypal,79.99,Boston
+O036,C001,2024-07-15,delivered,credit_card,199.99,New York
+O037,C003,2024-07-20,shipped,debit_card,34.99,Chicago
+O038,C005,2024-08-01,delivered,credit_card,149.98,Phoenix
+O039,C006,2024-08-05,delivered,paypal,95.00,Philadelphia
+O040,C010,2024-08-10,delivered,credit_card,79.99,San Jose
+O041,C011,2024-08-15,cancelled,debit_card,199.99,Austin
+O042,C012,2024-08-20,delivered,credit_card,55.50,Jacksonville
+O043,C014,2024-09-01,delivered,paypal,189.98,Charlotte
+O044,C016,2024-09-05,delivered,credit_card,59.99,San Francisco
+O045,C017,2024-09-10,shipped,credit_card,120.00,Seattle
+O046,C019,2024-09-15,delivered,debit_card,199.99,Boston
+O047,C001,2024-10-01,delivered,paypal,299.99,New York
+O048,C002,2024-10-08,delivered,credit_card,45.00,Los Angeles
+O049,C005,2024-10-15,shipped,credit_card,89.00,Phoenix
+O050,C009,2024-10-20,delivered,paypal,79.99,Dallas

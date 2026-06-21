@@ -1,0 +1,16 @@
+product_id,product_name,category,brand,unit_price,is_available
+P001,Wireless Headphones,Electronics,SoundMax,79.99,true
+P002,Running Shoes,Footwear,SpeedStep,120.00,true
+P003,Coffee Maker,Kitchen,BrewKing,55.50,true
+P004,Yoga Mat,Sports,FlexFit,35.00,true
+P005,Laptop Stand,Electronics,DeskPro,45.00,true
+P006,Water Bottle,Sports,HydroFlow,22.99,true
+P007,Bluetooth Speaker,Electronics,SoundMax,59.99,true
+P008,Cooking Pan Set,Kitchen,ChefMate,89.00,true
+P009,Resistance Bands,Sports,FlexFit,18.50,false
+P010,Desk Lamp,Electronics,BrightLife,34.99,true
+P011,Protein Powder,Nutrition,NutriPro,49.99,true
+P012,Sneakers,Footwear,SpeedStep,95.00,true
+P013,Air Fryer,Kitchen,BrewKing,110.00,true
+P014,Foam Roller,Sports,FlexFit,28.00,true
+P015,Smart Watch,Electronics,TechWear,199.99,true
