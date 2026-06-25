@@ -1,1 +1,11 @@
+# Jupyter
 *.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Local backups
+data_backup/
+
+# Local machine-specific file
+requirements_mac.txt
